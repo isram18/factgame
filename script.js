@@ -36,9 +36,9 @@ class FactOrMythGame {
 
     loadQuestions() {
         this.questions = [
-            { text: "Only women can get breast cancer.", answer: false, explanation: "This is a myth. While breast cancer is much more common in women, men can also develop breast cancer, though it's rare (about 1% of all breast cancer cases)." },
+            { text: "Only women can get breast cancer.", answer: false, explanation: "This is a myth. Men get it too , but it is rare ( about 1% of male cancer cases))." },
             { text: "Breast cancer is the most common cancer in women worldwide.", answer: true, explanation: "This is a fact. Breast cancer is indeed the most frequently diagnosed cancer among women globally, affecting millions each year." },
-            { text: "Wearing a bra causes breast cancer.", answer: false, explanation: "This is a myth. There is no scientific evidence linking bra wearing to breast cancer risk. This myth has been thoroughly debunked by medical research." },
+            { text: "Wearing a bra causes breast cancer.", answer: false, explanation: "This is a myth. There is no scientific evidence linking bra wearing to breast cancer risk." },
             { text: "Regular self-examination can help detect breast cancer early.", answer: true, explanation: "This is a fact. Monthly self-exams help women become familiar with their breasts and can help detect changes early, though they should complement, not replace, clinical exams." },
             { text: "Breast cancer only affects older women.", answer: false, explanation: "This is a myth. While risk increases with age, breast cancer can occur in younger women too. Early detection is crucial for all age groups." },
             { text: "Mammograms are the most effective screening tool for breast cancer.", answer: true, explanation: "This is a fact. Mammography is the gold standard for breast cancer screening and can detect tumors before they can be felt." },
